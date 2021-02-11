@@ -1,6 +1,6 @@
 body
 {
-  background-color: slategray;
+  background-color: rgb(153, 164, 175);
 }
 
 h1
@@ -18,9 +18,11 @@ p
   text-align: center;
 }
 
-.photos
+img
 {
   border:ridge, silver, 10px ;
+  width: 50px;
+  height: auto;
 }
 
 
