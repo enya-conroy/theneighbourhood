@@ -10,33 +10,33 @@ h2
 
 p
 {
-  text-align: right;
+  text-align: center;
 }
 
-.blackwhite
+#blackwhite
 {
-  border:ridge, silver ;
+  border:ridge, silver, 10px ;
   
 }
 
-.chipchrome
+#chipchrome
 {
-  border:ridge, silver ;
+  border:ridge, silver, 10px ;
 }
 
-.silhouettes
+#silhouettes
 {
-  border:ridge, silver ;
+  border:ridge, silver, 10px ;
 }
 
-.monotones
+#monotones
 {
-  border:ridge, silver ;
+  border:ridge, silver, 10px ;
 }
 
-.logp
+#logo
 {
-  border:ridge, silver ;
+  border:ridge, silver, 10px ;
 }
 
 
@@ -48,7 +48,7 @@ ul
   width: 300px;
   background-color: rgb(143, 143, 143);
   text-transform: uppercase;
-  position: fixed;
+  position:absolute;
 }
 
 li>a
@@ -67,6 +67,7 @@ li>a:hover
 table
 {
 width: auto;
+text-align: center;
 }
 
 th
