@@ -4,8 +4,9 @@ ul
   margin: auto;
   padding: 0%;
   width: 300px;
-  background-color: rgb(80, 80, 80);
+  background-color: rgb(143, 143, 143);
   text-transform: uppercase;
+  position: fixed;
 }
 
 li>a
@@ -23,6 +24,6 @@ li>a:hover
 
 table
 {
-width: 500;
+width: auto;
 }
 
