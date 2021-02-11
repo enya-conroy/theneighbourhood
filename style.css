@@ -1,3 +1,8 @@
+body
+{
+  background-color: slategray;
+}
+
 h1
 {
   text-align: center;
@@ -13,28 +18,7 @@ p
   text-align: center;
 }
 
-#blackwhite
-{
-  border:ridge, silver, 10px ;
-  
-}
-
-#chipchrome
-{
-  border:ridge, silver, 10px ;
-}
-
-#silhouettes
-{
-  border:ridge, silver, 10px ;
-}
-
-#monotones
-{
-  border:ridge, silver, 10px ;
-}
-
-#logo
+.photos
 {
   border:ridge, silver, 10px ;
 }
