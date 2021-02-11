@@ -20,7 +20,7 @@ p
 
 img
 {
-  border:ridge, silver, 10px ;
+  border:solid, black, 10px ;
   width: 250px;
   height: auto;
 }
