@@ -75,7 +75,8 @@ th, td
 
 
 
-input[type=text], select, textarea {
+input[type=text], select, textarea 
+{
   width: 50%; 
   padding: 12px;
   border: 1px solid #ccc; 
@@ -83,10 +84,10 @@ input[type=text], select, textarea {
   box-sizing: border-box;
   margin-top: 6px; 
   margin-bottom: 16px;
-  resize: vertical 
 }
 
-input[type=submit] {
+input[type=submit]
+ {
   background-color: #458ca1;
   color: white;
   padding: 12px 20px;
@@ -95,11 +96,13 @@ input[type=submit] {
   cursor: pointer;
 }
 
-input[type=submit]:hover {
+input[type=submit]:hover 
+{
   background-color: #275a63;
 }
 
-.container {
+.container 
+{
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
