@@ -17,7 +17,6 @@ p
 {
   align-items: center;
   text-align: center;
-  align-content:center;
 }
 
 img
@@ -68,6 +67,7 @@ table, th, td
 {
   border: 2px solid black;
   border-collapse: collapse;
+  align-self: center;
 }
 
 th, td
