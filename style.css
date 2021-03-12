@@ -88,8 +88,8 @@ input[type=text], select, textarea
 
 input[type=submit]
  {
-  background-color: #000000;
-  color: white;
+  background-color: #809fad;
+  color: rgb(0, 0, 0);
   padding: 12px 20px;
   border: none;
   border-radius: 4px;
