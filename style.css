@@ -75,8 +75,6 @@ th, td
   padding: 10px;
 }
 
-
-
 input[type=text], select, textarea 
 {
   width: 100%; 
@@ -90,7 +88,7 @@ input[type=text], select, textarea
 
 input[type=submit]
  {
-  background-color: #458ca1;
+  background-color: #000000;
   color: white;
   padding: 12px 20px;
   border: none;
